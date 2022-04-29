@@ -1,6 +1,6 @@
 var appShellFiles = [
-    '/Prueba2/index.html',
-    '/Prueba2/about.html',
+    '/Nuevo1/index.html',
+  
    
   ];
   
